@@ -12,7 +12,7 @@
   },
   "bin": {
     "ahmedcacli": "lib/index.js"
-  }, qKBpdPEja0
+  },
   "keywords": [
     "cli calculator",
     "typescript calculator"
