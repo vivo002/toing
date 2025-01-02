@@ -2,7 +2,7 @@
   "name": "project-04-cli-based-calculator-node-and-typescript",
   "version": "1.0.2",
   "description": "",
-  "main": "lib/index.js", 5RtfkioFxD
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "type": "module",
   "scripts": {
