@@ -9,7 +9,7 @@
     "start": "node .",
     "build": "tsc",
     "prepare": "npm run build"
-  },
+  }, OWerNDjXMe
   "bin": {
     "ahmedcacli": "lib/index.js"
   },
