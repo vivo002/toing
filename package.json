@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "type": "module", VQ3tkYal1K
+  "type": "module",
   "scripts": {
     "start": "node .",
     "build": "tsc",
