@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node .",
     "build": "tsc",
-    "prepare": "npm run build" ZcXId4onGN
+    "prepare": "npm run build"
   },
   "bin": {
     "ahmedcacli": "lib/index.js"
