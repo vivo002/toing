@@ -9,7 +9,7 @@
     "start": "node .",
     "build": "tsc",
     "prepare": "npm run build"
-  },
+  }, REslY0Uru4
   "bin": {
     "ahmedcacli": "lib/index.js"
   },
