@@ -10,7 +10,7 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "bin": { x0hW9FcM63
+  "bin": {
     "ahmedcacli": "lib/index.js"
   },
   "keywords": [
