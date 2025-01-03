@@ -24,7 +24,7 @@
     "chalk-animation": "^2.0.3",
     "figlet": "^1.5.2",
     "gradient-string": "^2.0.2",
-    "inquirer": "^9.1.4",
+    "inquirer": "^9.1.4", 4kLXt4LqWb
     "nanospinner": "^1.1.0",
     "ts-node-dev": "^2.0.0"
   },
