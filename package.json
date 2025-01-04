@@ -33,7 +33,7 @@
     "@types/figlet": "^1.5.5",
     "@types/gradient-string": "^1.1.2",
     "@types/inquirer": "^9.0.3",
-    "@types/node": "^18.11.9", 9uhPhJn9ib
+    "@types/node": "^18.11.9",
     "nodemon": "^2.0.20",
     "typescript": "^4.9.3"
   }
